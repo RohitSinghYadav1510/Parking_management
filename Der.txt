@@ -1,0 +1,8 @@
+1- User and Baii come to register this baii App
+2- After Registration both will go on login page
+3- After Login they will go to choose baii according to their wishes like rating ,Costing etc.
+4- After choosing baii they will go on in deep detail about their choosing baii like contactNo. , Address , Behaviour etc.
+5- Then customer book that baii and then call to him/her.
+6- After complete the baii work Customer will pay us through Debit card, Paytm, Google pay, Phonepay etc.
+7- Then we will pay to the baii account through debit card ,google pay etc
+8- After that customer will the rating to the baii according to thier work.
